@@ -1,0 +1,7 @@
+Steps of hacking
+
+1.Information gathering: Collecting the Information of the target.
+2.Exploitation: Try to gain at least a command line access on the victim machine.
+3.Privilege escalation: Escalating the privilege from lower level to high level access.
+4.Creating a backdoor: Easy way to enter into the victim machine.
+5.Clearing the tracks: Clear all the tracks or logs captured by the System.
